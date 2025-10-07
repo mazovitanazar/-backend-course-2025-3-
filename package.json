@@ -1,0 +1,11 @@
+{
+  "name": "bc-2025-3",
+  "version": "1.0.0",
+  "description": "Laboratory number 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazar_Mazovita",
+  "license": "ISC"
+ }
